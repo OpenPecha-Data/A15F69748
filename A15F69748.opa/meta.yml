@@ -1,0 +1,22 @@
+id: A15F69748
+title: An Aspiration Prayer
+type: translation
+pechas:
+- I899AF1EE
+- I4D9E9101
+- IAA31A418
+source_metadata:
+  languages:
+  - en
+  - fr
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 11:58:39.079238
+  last_modified_at: 2023-01-04 11:58:39.079251
+  collections:
+  - Gyalse Tokme Zangpo
+  - Works of Tibetan Masters
+alignment_to_base:
+  I899AF1EE/A6F4: '1380'
+  I4D9E9101/4C34: '1380'
+  IAA31A418/AA9A: '1380'
